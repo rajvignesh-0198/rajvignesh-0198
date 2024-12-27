@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rajvignesh-0198.
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning AWS,React.
+- 📫 How to reach me rajvignesh0198@gmail.com.
+- 😄 Pronouns: RV
